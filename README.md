@@ -32,7 +32,7 @@ A little intro about the installation.
 
 ```
 $ git clone https://github.com/Nelnico08/TodoListWithReactTs.git
-$ cd ../path/to/the/file/tsToDoList
+$ cd ../path/to/the/file/TodoListWithReactTs
 $ npm install
 $ npm run dev
 ```
